@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Case Study Background}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Customer Background}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Project Background}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Requirements Gathering}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{User Stories}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Customer Interaction}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Slack and Customer Interaction}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Early Contact Issues}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Customer Demonstrations}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Software Process Practices}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Retrospectives}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Team Roles}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Planning Poker}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.4}{Issue Tracking}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.5}{Branching}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Implementation}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Code Reviews}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Technologies Used}{section.6}% 19
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Expo}{subsection.6.2}% 20
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Firebase Realtime Database}{subsection.6.2}% 21
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Amplitude}{subsection.6.2}% 22
+\BOOKMARK [1][-]{section.7}{Quality Assurance}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{Continuous Integration Issues}{section.7}% 24
+\BOOKMARK [2][-]{subsection.7.2}{Unit Testing}{section.7}% 25
+\BOOKMARK [2][-]{subsection.7.3}{Usability Testing}{section.7}% 26
+\BOOKMARK [1][-]{section.8}{Deployment}{}% 27
+\BOOKMARK [2][-]{subsection.8.1}{User Guide}{section.8}% 28
+\BOOKMARK [2][-]{subsection.8.2}{User Manual}{section.8}% 29
+\BOOKMARK [2][-]{subsection.8.3}{Final Product}{section.8}% 30
+\BOOKMARK [1][-]{section.9}{Conclusions}{}% 31

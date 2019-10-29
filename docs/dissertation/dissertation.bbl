@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{WEBSITE:expo}
+Expo.
+\newblock Expo documentation.
+\newblock \url{https://expo.io/learn}.
+\newblock Accessed in September 2018.
+
+\bibitem{WEBSITE:firebase}
+Google.
+\newblock Firebase documentation.
+\newblock \url{https://firebase.google.com/docs/}.
+\newblock Accessed in September 2018.
+
+\bibitem{WEBSITE:amplitude}
+Amplitude.
+\newblock Amplitude documentation.
+\newblock \url{https://amplitude.zendesk.com/hc/en-us}.
+\newblock Accessed in September 2018.
+
+\bibitem{WEBSITE:jest}
+Jest.
+\newblock Jest documentation.
+\newblock \url{https://jestjs.io}.
+\newblock Accessed in September 2018.
+
+\bibitem{Book:design_it}
+Michael Keeling.
+\newblock {\em Design It!: From Programmer to Software Architect}.
+\newblock Addison Wesley, 2017.
+
+\bibitem{Book:pragprog}
+David~Thomas Andrew~Hunt.
+\newblock {\em The Pragmatic Programmer: From Journeyman to Master}.
+\newblock Addison Wesley, 1999.
+
+\bibitem{Book:deimel}
+Lionel~E. Deimel and J.~Fernando Naveda.
+\newblock {\em Reading Computer Programs: Instructors Guide and Exercises}.
+\newblock Software Engineering Institute, Carnegie Mellon University, 1990.
+
+\end{thebibliography}
