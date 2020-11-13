@@ -42,7 +42,7 @@
     "react-navigation": "^2.18.3",
     "rn-slider-switch": "0.0.3",
     "rn-sliding-up-panel": "2.0.0",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "jest-expo": "^32.0.0"
